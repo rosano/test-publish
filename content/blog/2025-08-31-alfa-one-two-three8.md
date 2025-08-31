@@ -1,5 +1,4 @@
 ---
-nostr_id: note1ha4nht95nyr4n0jsqmgvl5k7syqhy5wyhv3r70vrs2qga9ryavkqwjtzcy
 slug: alfa-one-two-three
 title: alfa one two thrée
 summary: bravo
